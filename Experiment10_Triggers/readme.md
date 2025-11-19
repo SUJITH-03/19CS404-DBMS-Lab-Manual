@@ -1,5 +1,6 @@
 # Experiment 10: PL/SQL – Triggers
-
+### Name : SUJITH A
+### Reg No : 212224230278
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
 
@@ -75,3 +76,5 @@ END;
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
+
+
