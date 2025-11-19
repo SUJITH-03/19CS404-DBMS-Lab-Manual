@@ -1,5 +1,6 @@
 # Experiment 9: PL/SQL – Procedures and Functions
-
+### Name : SUJITH A
+### Reg No : 212224230278
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
 
